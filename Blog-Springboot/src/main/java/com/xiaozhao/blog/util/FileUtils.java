@@ -13,6 +13,7 @@ import java.util.Objects;
 /**
  * @Author: XIAO ZHAO
  * @Date: 2022/5/16 18:30
+ * 文件md5工具类
  */
 public class FileUtils {
     /**
