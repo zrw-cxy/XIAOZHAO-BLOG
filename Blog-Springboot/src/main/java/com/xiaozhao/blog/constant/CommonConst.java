@@ -1,6 +1,7 @@
 package com.xiaozhao.blog.constant;
 
 /**
+ * 公共常量
  * @Author: XIAO ZHAO
  * @Date: 2022/5/16 17:58
  */

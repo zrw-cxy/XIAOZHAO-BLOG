@@ -14,6 +14,7 @@ import java.util.stream.Collectors;
 import static com.xiaozhao.blog.constant.CommonConst.FALSE;
 
 /**
+ * 用户信息
  * @Author: XIAO ZHAO
  * @Date: 2022/5/16 17:54
  */
