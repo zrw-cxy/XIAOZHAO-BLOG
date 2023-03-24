@@ -1,7 +1,7 @@
 # XIAOZHAO-BLOG 介绍
 
 <p align=center>
-    <img src="./image/logo.jpg" alt="XIAOZHAO的个人博客" style="border-radius: 50%">
+    <img src="./image/logo.jpg" alt="XIAOZHAO的个人博客" style="border-radius: 50%" width="20%">
 </p>
 
 <p align=center>
